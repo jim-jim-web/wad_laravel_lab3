@@ -2,23 +2,23 @@
 
 ### Student Information
 * **Name:** Jimuel Jarina
-*Date: February 11, 2026
-Subject: WAD
+* **Date:** February 11, 2026
+* **Subject:** WAD
 
 
 ### Project Overview
 This is a Laravel-based portfolio application developed for Laboratory 3. It demonstrates how to use the MVC (Model-View-Controller) architecture by setting up custom routes, controllers, and styled Blade templates.
 
 ### Implemented Features
-Routes: Configured in `routes/web.php` for Home, About, and Goal.
-Controllers: Created `Home`, `About`, and `Goal`.
-Views: Designed 3 responsive pages using Bootstrap CSS.
+* **Routes:** Configured in `routes/web.php` for Home, About, and Goal.
+* **Controllers:** Created `Home`, `About`, and `Goal`.
+* **Views:** Designed 3 responsive pages using Bootstrap CSS.
 
 ### Navigation Links
 Once the server is running, you can access:
-`http://127.0.0.1:8000/home` - Home
-`http://127.0.0.1:8000/about` - About
-`http://127.0.0.1:8000/goal` - Goal 
+* `http://127.0.0.1:8000/home` - Home
+* `http://127.0.0.1:8000/about` - About
+* `http://127.0.0.1:8000/goal` - Goal 
 
 
 ### How to Run Locally
