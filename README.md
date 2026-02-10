@@ -1,7 +1,7 @@
 # Laboratory 2: Laravel Pages, Controllers, and Routes
 
 ### Student Information
-Name: Jimuel Jarina
+* **Name:** Jimuel Jarina
 *Date: February 11, 2026
 Subject: WAD
 
