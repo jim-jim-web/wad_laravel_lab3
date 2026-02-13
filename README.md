@@ -22,10 +22,18 @@ Once the server is running, you can access:
 
 
 ### How to Run Locally
-1. Clone this repository.
-2. Run `composer install`.
-3. Create a `.env` file and run `php artisan key:generate`.
-4. Run `php artisan serve`.
+1. Clone this repository
+    `git clone https://github.com/jim-jim-web/wad_laravel_lab3.git`
+2. Install dependencies
+   Run `composer install`.
+3. Setup Environment
+   Run `cp .env.example .env`
+   Run `php artisan key:generate`.
+4. Initialize Database
+   Run `New-Item -Path "database/database.sqlite" -ItemType File`
+   Run `php artisan migrate`
+5. Start the server
+   Run `php artisan serve`.
 
 
 ### Screenshots
